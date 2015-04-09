@@ -9,10 +9,10 @@
 		color: white;
 	}
 	._36ic, ._5742 {
-		background-color: rgba(255, 255, 255, .05);
+		background-color: rgba(255, 255, 255, .05) !important;
 	}
 	h1, h2, h3, h4, h5, h6,
-	._5743, ._3tkz, ._364g {
+	._5743, ._364g {
 		color: white;
 	}
 	label {
@@ -33,45 +33,49 @@
 	._nd_ ._hh7 {
 		background-color: #0064cc;
 	}
-	/* new message to field */
-	._2y8y {
-		background-color: #ccc;
+	/* to field: new message, add people */
+	._2y8y, ._4jgt {
+		background-color: #ccc !important;
 		color: black;
 	}
 
 	/* convo info */
 	._4_j5 {
-		background-color: #2d2d30;
+		background-color: #2d2d30 !important;
 		border-left-color: rgba(0, 0, 0, 0.5);
+	}
+	/* convo name */
+	._3tkx, ._3tkz {
+		color: white !important;
 	}
 	/* user list */
 	._5l37 {
-		background-color: #2d2d30;
+		background-color: #2d2d30 !important;
 	}
 
 	/* convo list */
 	/* inactive convo */
 	._1ht1 {
-		background-color: #2d2d30;
+		background-color: #2d2d30 !important;
 	}
 	/* active convo */
 	._1ht1._1ht2 {
-		background-color: rgba(127, 127, 127, .05);
+		background-color: rgba(127, 127, 127, .05) !important;
 	}
 	/* convo name */
 	._1ht6 {
-		color: white;
+		color: white !important;
 	}
 	/* convo new message */
 	._1ht3 ._1htf {
 		color: white;
 	}
 
-	/* settings and mute dialogs, very important */
+	/* messenger dialogs, very important */
 	._4-hz, ._4eby {
 		background-color: #222;
 	}
-	._374c {
+	._374c, ._4jgs {
 		color: #ddd;
 	}
 	/* report dialog, even more so */
@@ -90,7 +94,7 @@
 	}
 
 	/* stuff that should be grey */
-	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v {
-		color: rgba(255, 255, 255, 0.6);
+	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4 {
+		color: rgba(255, 255, 255, 0.6) !important;
 	}
 }
