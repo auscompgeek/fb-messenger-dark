@@ -1,125 +1,125 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("www.messenger.com") {
-	/* #141823 is Messenger's normal text colour, white is normal background colour */
-	/* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
+/* #141823 is Messenger's normal text colour, white is normal background colour */
+/* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
 
-	body {
-		background-color: #141813;  /* this doesn't do shit */
-		color: white;
-	}
-	._36ic, ._5742 {
-		background-color: rgba(255, 255, 255, .05) !important;
-	}
-	h1, h2, h3, h4, h5, h6,
-	._5743, ._364g {
-		color: white;
-	}
-	label {
-		color: #aaa;
-	}
-	/* convo search box, to field (new message, add people), other inputs? */
-	._2y8y, ._4jgt, input._58al {
-		background-color: #2d2d30 !important;
-		color: white !important;
-	}
-	/* fuck placeholder styling */
-	input::-moz-placeholder {
-		color: #aaa !important;
-	}
-	input::-webkit-placeholder {
-		color: #aaa !important;
-	}
+body {
+	background-color: #141813;  /* this doesn't do shit */
+	color: white;
+}
+._36ic, ._5742 {
+	background-color: rgba(255, 255, 255, .05) !important;
+}
+h1, h2, h3, h4, h5, h6,
+._5743, ._364g {
+	color: white;
+}
+label {
+	color: #aaa;
+}
+/* convo search box, to field (new message, add people), other inputs? */
+._2y8y, ._4jgt, input._58al {
+	background-color: #2d2d30 !important;
+	color: white !important;
+}
+/* fuck placeholder styling */
+input::-moz-placeholder {
+	color: #aaa !important;
+}
+input::-webkit-placeholder {
+	color: #aaa !important;
+}
 
-	/* main wrapper */
-	._4sp8 {
-		background-color: #1e1e1e;
-		color: white;
-	}
+/* main wrapper */
+._4sp8 {
+	background-color: #1e1e1e;
+	color: white;
+}
 
-	/* chat area shit */
-	/* message */
-	._hh7 {
-		background-color: #2d2d30;
-		color: white;
-	}
-	._hh7 a {
-		color: white !important;
-	}
-	._hh7:active, ._hh7>span>a:hover {
-		background-color: #222;
-    }
-	/* own message */
-	._nd_ ._hh7 {
-		background-color: #004488;
-	}
-	._nd_ ._hh7>span>a:hover {
-		background-color: #003377;
-    }
-	/* link info */
-	._haj {
-		border-color: rgba(255, 255, 255, 0.1);
-	}
-	._haj .__6k, ._haj .__6l {
-		color: white;
-	}
+/* chat area shit */
+/* message */
+._hh7 {
+	background-color: #2d2d30;
+	color: white;
+}
+._hh7 a {
+	color: white !important;
+}
+._hh7:active, ._hh7>span>a:hover {
+	background-color: #222;
+}
+/* own message */
+._nd_ ._hh7 {
+	background-color: #004488;
+}
+._nd_ ._hh7>span>a:hover {
+	background-color: #003377;
+}
+/* link info */
+._haj {
+	border-color: rgba(255, 255, 255, 0.1);
+}
+._haj .__6k, ._haj .__6l {
+	color: white;
+}
 
-	/* convo info */
-	._4_j5 {
-		background-color: #2d2d30 !important;
-		border-left-color: rgba(0, 0, 0, 0.5);
-	}
-	/* convo name */
-	._3tkx, ._3tkz {
-		color: white !important;
-	}
-	/* user list */
-	._5l37 {
-		background-color: #2d2d30 !important;
-	}
+/* convo info */
+._4_j5 {
+	background-color: #2d2d30 !important;
+	border-left-color: rgba(0, 0, 0, 0.5);
+}
+/* convo name */
+._3tkx, ._3tkz {
+	color: white !important;
+}
+/* user list */
+._5l37 {
+	background-color: #2d2d30 !important;
+}
 
-	/* convo list */
-	/* inactive convo */
-	._1ht1 {
-		background-color: #2d2d30 !important;
-	}
-	/* active convo */
-	._1ht1._1ht2 {
-		background-color: rgba(127, 127, 127, .05) !important;
-	}
-	/* convo name */
-	._1ht6 {
-		color: white !important;
-	}
-	/* convo new message */
-	._1ht3 ._1htf {
-		color: white;
-	}
+/* convo list */
+/* inactive convo */
+._1ht1 {
+	background-color: #2d2d30 !important;
+}
+/* active convo */
+._1ht1._1ht2 {
+	background-color: rgba(127, 127, 127, .05) !important;
+}
+/* convo name */
+._1ht6 {
+	color: white !important;
+}
+/* convo new message */
+._1ht3 ._1htf {
+	color: white;
+}
 
-	/* messenger dialogs, very important */
-	._4-hz, ._4eby {
-		background-color: #222;
-	}
-	._374c, ._4jgs {
-		color: #ddd;
-	}
-	/* report dialog, even more so */
-	/* dialog head */
-	._4-i0 {
-		background-color: #333;
-		border-bottom-color: #2e2e2e;
-	}
-	/* dialog heading */
-	._4-i0 ._52c9 {
-		color: #ddd;
-	}
-	/* dialog body, footer */
-	div._4-i2, div._5a8u {
-		background-color: #222;
-	}
+/* messenger dialogs, very important */
+._4-hz, ._4eby {
+	background-color: #222;
+}
+._374c, ._4jgs {
+	color: #ddd;
+}
+/* report dialog, even more so */
+/* dialog head */
+._4-i0 {
+	background-color: #333;
+	border-bottom-color: #2e2e2e;
+}
+/* dialog heading */
+._4-i0 ._52c9 {
+	color: #ddd;
+}
+/* dialog body, footer */
+div._4-i2, div._5a8u {
+	background-color: #222;
+}
 
-	/* stuff that should be grey */
-	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z {
-		color: rgba(255, 255, 255, 0.6) !important;
-	}
+/* stuff that should be grey */
+._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z {
+	color: rgba(255, 255, 255, 0.6) !important;
+}
 }
