@@ -1,0 +1,96 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.messenger.com") {
+	/* #141823 is Messenger's normal text colour, white is normal background colour */
+	/* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
+
+	body {
+		background-color: #141813;  /* this doesn't do shit */
+		color: white;
+	}
+	._36ic, ._5742 {
+		background-color: rgba(255, 255, 255, .05);
+	}
+	h1, h2, h3, h4, h5, h6,
+	._5743, ._3tkz, ._364g {
+		color: white;
+	}
+	label {
+		color: #aaa;
+	}
+
+	/* main wrapper */
+	._4sp8 {
+		background-color: #1e1e1e;
+	}
+
+	/* chat area shit */
+	/* message */
+	._hh7 {
+		background-color: #ddd;
+	}
+	/* own message */
+	._nd_ ._hh7 {
+		background-color: #0064cc;
+	}
+	/* new message to field */
+	._2y8y {
+		background-color: #ccc;
+		color: black;
+	}
+
+	/* convo info */
+	._4_j5 {
+		background-color: #2d2d30;
+		border-left-color: rgba(0, 0, 0, 0.5);
+	}
+	/* user list */
+	._5l37 {
+		background-color: #2d2d30;
+	}
+
+	/* convo list */
+	/* inactive convo */
+	._1ht1 {
+		background-color: #2d2d30;
+	}
+	/* active convo */
+	._1ht1._1ht2 {
+		background-color: rgba(127, 127, 127, .05);
+	}
+	/* convo name */
+	._1ht6 {
+		color: white;
+	}
+	/* convo new message */
+	._1ht3 ._1htf {
+		color: white;
+	}
+
+	/* settings dialog, very important */
+	._4-hz {
+		background-color: #222;
+	}
+	._374c {
+		color: #ddd;
+	}
+	/* report dialog, even more so */
+	/* dialog head */
+	._4-i0 {
+		background-color: #333;
+		border-bottom-color: #2e2e2e;
+	}
+	/* dialog heading */
+	._4-i0 ._52c9 {
+		color: #ddd;
+	}
+	/* dialog body, footer */
+	div._4-i2, div._5a8u {
+		background-color: #222;
+	}
+
+	/* stuff that should be grey */
+	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p {
+		color: rgba(255, 255, 255, 0.6);
+	}
+}
