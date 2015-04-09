@@ -18,25 +18,50 @@
 	label {
 		color: #aaa;
 	}
+	/* convo search box, to field (new message, add people), other inputs? */
+	._2y8y, ._4jgt, input._58al {
+		background-color: #2d2d30 !important;
+		color: white !important;
+	}
+	/* fuck placeholder styling */
+	input::-moz-placeholder {
+		color: #aaa !important;
+	}
+	input::-webkit-placeholder {
+		color: #aaa !important;
+	}
 
 	/* main wrapper */
 	._4sp8 {
 		background-color: #1e1e1e;
+		color: white;
 	}
 
 	/* chat area shit */
 	/* message */
 	._hh7 {
-		background-color: #ddd;
+		background-color: #2d2d30;
+		color: white;
 	}
+	._hh7 a {
+		color: white !important;
+	}
+	._hh7:active, ._hh7>span>a:hover {
+		background-color: #222;
+    }
 	/* own message */
 	._nd_ ._hh7 {
-		background-color: #0064cc;
+		background-color: #004488;
 	}
-	/* to field: new message, add people */
-	._2y8y, ._4jgt {
-		background-color: #ccc !important;
-		color: black;
+	._nd_ ._hh7>span>a:hover {
+		background-color: #003377;
+    }
+	/* link info */
+	._haj {
+		border-color: rgba(255, 255, 255, 0.1);
+	}
+	._haj .__6k, ._haj .__6l {
+		color: white;
 	}
 
 	/* convo info */
@@ -94,7 +119,7 @@
 	}
 
 	/* stuff that should be grey */
-	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3 {
+	._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z {
 		color: rgba(255, 255, 255, 0.6) !important;
 	}
 }
