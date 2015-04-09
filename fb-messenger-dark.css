@@ -67,8 +67,8 @@
 		color: white;
 	}
 
-	/* settings dialog, very important */
-	._4-hz {
+	/* settings and mute dialogs, very important */
+	._4-hz, ._4eby {
 		background-color: #222;
 	}
 	._374c {
