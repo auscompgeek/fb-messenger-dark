@@ -11,9 +11,11 @@ body._5s5h {
 ._36ic, ._5742 {
 	background-color: rgba(255, 255, 255, .05) !important;
 }
-h1, h2, h3, h4, h5, h6,
-._5743, ._364g {
+h1, h2, h3, h4, h5, h6 {
 	color: white;
+}
+._5743, ._364g {
+	color: white !important;
 }
 label {
 	color: #aaa;
@@ -40,21 +42,21 @@ input::-webkit-placeholder {
 /* chat area shit */
 /* message */
 ._hh7 {
-	background-color: #2d2d30;
-	color: white;
+	background-color: #2d2d30 !important;
+	color: white !important;
 }
 ._hh7 a {
 	color: white !important;
 }
 ._hh7:active, ._-5k ._hh7, ._hh7>span>a:hover {
-	background-color: #333;
+	background-color: #333 !important;
 }
 /* own message */
 ._nd_ ._hh7 {
-	background-color: #004488;
+	background-color: #004488 !important;
 }
 ._nd_ ._hh7>span>a:hover {
-	background-color: #003377;
+	background-color: #003377 !important;
 }
 /* link info */
 ._haj {
@@ -105,14 +107,14 @@ input::-webkit-placeholder {
 	background-color: #222;
 }
 ._256n {
-	color: white;
+	color: #ddd;
 }
 /* messenger dialogs, very important */
 ._4-hz, ._4eby {
-	background-color: #222;
+	background-color: #222 !important;
 }
 ._374c, ._4jgs {
-	color: #ddd;
+	color: #ddd !important;
 }
 /* report dialog, even more so */
 /* dialog head */
