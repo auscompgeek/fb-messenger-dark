@@ -55,7 +55,7 @@ input::-webkit-placeholder {
 ._nd_ ._hh7 {
 	background-color: #004488 !important;
 }
-._nd_ ._hh7>span>a:hover {
+._nd_ ._hh7:active, ._nd_._-5k ._hh7, ._nd_ ._hh7>span>a:hover {
 	background-color: #003377 !important;
 }
 /* link info */
@@ -119,16 +119,16 @@ input::-webkit-placeholder {
 /* report dialog, even more so */
 /* dialog head */
 ._4-i0 {
-	background-color: #333 !important;
+	background-color: #333;
 	border-bottom-color: #2e2e2e;
 }
 /* dialog heading */
 ._4-i0 ._52c9 {
-	color: #ddd !important;
+	color: #ddd;
 }
 /* dialog body, footer */
 div._4-i2, div._5a8u {
-	background-color: #222 !important;
+	background-color: #222;
 }
 
 /* stuff that should be grey */
