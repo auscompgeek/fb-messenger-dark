@@ -94,12 +94,16 @@ input::-webkit-placeholder {
 	background-color: rgba(127, 127, 127, .05) !important;
 }
 /* convo name */
-._1ht6 {
+._1ht6, ._3q34 {
 	color: white !important;
 }
 /* convo new message */
 ._1ht3 ._1htf {
 	color: white;
+}
+/* search header */
+._5t4c, ._225b {
+	background-color: #1e1e1e;
 }
 
 /* that menu though */
@@ -132,7 +136,8 @@ div._4-i2, div._5a8u {
 }
 
 /* stuff that should be grey */
-._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z {
+._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z,
+._4g0h, ._3xcx, ._225b, ._3q35 {
 	color: rgba(255, 255, 255, 0.6) !important;
 }
 }
