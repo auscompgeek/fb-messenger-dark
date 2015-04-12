@@ -97,9 +97,16 @@ input::-webkit-placeholder {
 ._1ht6, ._3q34 {
 	color: white !important;
 }
+/* timestamp */
+._1ht7 {
+	color: rgba(255, 255, 255, .6) !important;  /* fuck you Chrome, fuck you. */
+}
+._1ht3 ._1ht7 {
+	color: #0084ff !important;
+}
 /* convo new message */
 ._1ht3 ._1htf {
-	color: white;
+	color: white !important;
 }
 /* search header */
 ._5t4c, ._225b {
@@ -136,8 +143,8 @@ div._4-i2, div._5a8u {
 }
 
 /* stuff that should be grey */
-._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._1ht7, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z,
+._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._haj .__6m, ._2y8z,
 ._4g0h, ._3xcx, ._225b, ._3q35 {
-	color: rgba(255, 255, 255, 0.6) !important;
+	color: rgba(255, 255, 255, .6) !important;
 }
 }
