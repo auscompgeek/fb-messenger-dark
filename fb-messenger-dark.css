@@ -60,14 +60,14 @@ input::-webkit-placeholder {
 }
 /* link info */
 ._haj {
-	border-color: rgba(255, 255, 255, 0.1);
+	border-color: rgba(255, 255, 255, .1) !important;
 }
 ._haj .__6k, ._haj .__6l {
-	color: white;
+	color: white !important;
 }
 /* input bar */
 ._4rv3 {
-	border-top-color: rgba(255, 255, 255, .1);
+	border-top-color: rgba(255, 255, 255, .1) !important;
 }
 
 /* convo info */
