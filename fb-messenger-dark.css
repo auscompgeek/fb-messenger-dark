@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document url-prefix("https://www.messenger.com/t/") {
+@-moz-document domain("www.messenger.com") {
 /* #141823 is Messenger's normal text colour, white is normal background colour */
 /* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
 
@@ -14,7 +14,7 @@ body._5s5h {
 h1, h2, h3, h4, h5, h6 {
 	color: white;
 }
-._5743, ._364g {
+._5743, ._364g, ._hh7 {
 	color: white !important;
 }
 label {
@@ -132,10 +132,10 @@ input::-webkit-input-placeholder {
 	color: #ddd !important;
 }
 /* messenger dialogs, very important */
-._4-hz, ._4eby {
+._4-hz, ._4eby, ._4jgp ._4jgu {
 	background-color: #222 !important;
 }
-._374c, ._4jgs {
+._374c, ._4jgs, ._2c9i ._19jt, ._51l0 .uiInputLabel .__rm + .uiInputLabelLabel {
 	color: #ddd !important;
 }
 /* report dialog, even more so */
