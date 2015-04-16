@@ -129,7 +129,7 @@ input::-webkit-input-placeholder {
 }
 /* search header */
 ._5t4c, ._225b {
-	background-color: #1e1e1e;
+	background-color: #1e1e1e !important;
 }
 
 /* that menu though */
