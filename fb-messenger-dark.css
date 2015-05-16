@@ -89,8 +89,8 @@ input::-webkit-input-placeholder {
 ._4rv3 {
 	border-top-color: rgba(255, 255, 255, .1) !important;
 }
-/* messenger thumb up sticker */
-[style*="sticker_id=369239263222822"] {
+/* messenger thumb up stickers */
+[style*="sticker_id=369239263222822"], [style*="sticker_id=369239383222810"] {
 	filter: brightness(80%);
 }
 
