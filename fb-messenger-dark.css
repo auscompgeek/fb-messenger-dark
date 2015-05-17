@@ -117,13 +117,13 @@ input::-webkit-input-placeholder {
 ._1ht1 {
 	background-color: #222 !important;
 }
+/* unread convo */
+._1ht1._1ht3 {
+	background-color: #2e2e30 !important;
+}
 /* active convo */
 ._1ht1._1ht2 {
 	background-color: rgba(255, 255, 255, .05) !important;
-}
-/* unread convo */
-._1ht3 {
-	background-color: #2e2e30 !important;
 }
 /* convo name */
 ._1ht6, ._3q34 {
