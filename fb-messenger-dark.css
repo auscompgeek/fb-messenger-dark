@@ -7,7 +7,7 @@
 ._51l0 body {
 	background-color: #141813;  /* this doesn't do shit */
 	color: white;
-	overflow-y: auto; /* wtf are you doing facebook */
+	overflow-y: hidden; /* wtf are you doing facebook */
 }
 /* ..., ..., stickers */
 ._36ic, ._5742, ._293j, ._5r8a._5r8b {
