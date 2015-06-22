@@ -89,6 +89,13 @@ input::-webkit-input-placeholder {
 ._4rv3 {
 	border-top-color: rgba(255, 255, 255, .1) !important;
 }
+/* make static stickers slightly more readable */
+/*
+._2poz[style*="sticker"] {
+	background-color: #333;
+	border-radius: 5px;
+}
+*/
 /* messenger thumb up stickers */
 ._576q {
 	-webkit-filter: brightness(75%);
