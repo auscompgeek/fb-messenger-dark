@@ -90,8 +90,9 @@ input::-webkit-input-placeholder {
 	border-top-color: rgba(255, 255, 255, .1) !important;
 }
 /* messenger thumb up stickers */
-[style*="sticker_id=369239263222822"], [style*="sticker_id=369239343222814"], [style*="sticker_id=369239383222810"] {
-	filter: brightness(80%);
+._576q {
+	-webkit-filter: brightness(75%);
+	filter: brightness(75%);
 }
 
 /* convo info */
@@ -157,10 +158,12 @@ input::-webkit-input-placeholder {
 }
 /* menu dropdown triangles */
 ._1r_9 ._53ik ._53io, ._53ii ._53il ._53io {
+	-webkit-filter: brightness(20%);
 	filter: brightness(20%);
 }
 /* misc icons */
 ._fl3._gxi, ._4-0h, ._57gs, ._55sg > input + span::before {
+	-webkit-filter: brightness(75%);
 	filter: brightness(75%);
 }
 /* messenger dialogs, very important */
