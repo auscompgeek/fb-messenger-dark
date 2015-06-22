@@ -16,6 +16,9 @@
 ._5r8e {
 	border-bottom-color: rgba(0, 0, 0, 0.2);
 }
+._5r8l .uiScrollableArea.contentAfter:after {
+	background-image: linear-gradient(transparent, #222);
+}
 h1, h2, h3, h4, h5, h6 {
 	color: white;
 }
