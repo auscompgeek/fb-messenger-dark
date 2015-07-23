@@ -9,15 +9,8 @@
 	color: white;
 	overflow-y: hidden; /* wtf are you doing facebook */
 }
-/* ..., ..., stickers */
-._36ic, ._5742, ._293j, ._5r8a._5r8b {
+._36ic, ._5742 {
 	background-color: rgba(255, 255, 255, .05) !important;
-}
-._5r8e {
-	border-bottom-color: rgba(0, 0, 0, 0.2);
-}
-._5r8l .uiScrollableArea.contentAfter:after {
-	background-image: linear-gradient(transparent, #222);
 }
 h1, h2, h3, h4, h5, h6 {
 	color: white;
@@ -160,18 +153,25 @@ input::-webkit-input-placeholder {
 	background-color: #1e1e1e !important;
 }
 
-/* that menu though */
-._53ij {
+/* those menus and stickers though */
+._53ij, ._54nf, ._293j, ._5r8a._5r8b {
 	background-color: #2e2e30 !important;
 }
-._256n {
+._2i-c ._54nf ._54nh {
 	color: #ddd !important;
 }
-._256n:hover {
+._54ni:hover {
 	background-color: #0084cc;
 }
+/* more stickers */
+._5r8e, ._5r86, ._37wu, ._37wv {
+	border-color: #222;
+}
+._5r8l .uiScrollableArea.contentAfter:after {
+	background-image: linear-gradient(transparent, #222);
+}
 /* menu dropdown triangles */
-._1r_9 ._53ik ._53io, ._53ii ._53il ._53io {
+._1r_9 ._53ik ._53io, ._53il ._53io {
 	-webkit-filter: brightness(20%);
 	filter: brightness(20%);
 }
