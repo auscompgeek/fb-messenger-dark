@@ -193,12 +193,12 @@ input::-webkit-input-placeholder {
 	background-color: #333 !important;
 	border-bottom-color: #2e2e2e;
 }
-/* dialog heading */
-._4-i0 ._52c9 {
+/* dialog heading, checkbox label */
+._4-i0 ._52c9, ._uvt {
 	color: #ddd !important;
 }
 /* dialog body, footer */
-div._4-i2, div._5a8u {
+div._4-i2, div._5a8u, ._4t2a {
 	background-color: #222 !important;
 }
 
