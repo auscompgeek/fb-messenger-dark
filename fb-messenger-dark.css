@@ -48,6 +48,10 @@ input::-webkit-input-placeholder {
 }
 
 /* chat area shit */
+/* beginning of convo info */
+._llq, ._36zg, ._1n-e._36zg {
+	color: white !important;
+}
 /* message */
 ._hh7 {
 	background-color: #2d2d30 !important;
@@ -200,7 +204,7 @@ div._4-i2, div._5a8u {
 
 /* stuff that should be grey */
 ._ih3, ._3tl0, ._3tl1 ._10w4, ._1htf, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._5i_d .__6m, ._2y8z,
-._4g0h, ._3xcx, ._225b, ._3q35 {
+._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e {
 	color: rgba(255, 255, 255, .6) !important;
 }
 }
