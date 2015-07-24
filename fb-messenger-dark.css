@@ -176,7 +176,7 @@ input::-webkit-input-placeholder {
 	filter: brightness(20%);
 }
 /* misc icons */
-._fl3._gxi, ._4-0h, ._57gs, ._55sg > input + span::before {
+._fl3._gxi, ._4-0h, ._57gs, label > input + span::before {
 	-webkit-filter: brightness(75%);
 	filter: brightness(75%);
 }
