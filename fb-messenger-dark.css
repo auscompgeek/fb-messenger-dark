@@ -5,8 +5,6 @@
 /* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
 
 ._51l0 body {
-	background-color: #141813;  /* this doesn't do shit */
-	color: white;
 	overflow-y: hidden; /* wtf are you doing facebook */
 }
 ._36ic, ._5742 {
@@ -14,6 +12,9 @@
 }
 h1, h2, h3, h4, h5, h6 {
 	color: white;
+}
+a {
+	color: #0084cc;
 }
 ._5743, ._364g, ._hh7, ._4rph ._4rpj {
 	color: white !important;
@@ -26,7 +27,7 @@ label {
 	background-color: #2d2d30 !important;
 	color: white !important;
 }
-/* fuck placeholder styling */
+/* I hate placeholder styling */
 input::-moz-placeholder {
 	color: #ccc !important;
 }
@@ -40,7 +41,7 @@ input::-webkit-input-placeholder {
 	color: white;
 }
 
-/* chat area shit */
+/* chat area stuff */
 /* beginning of convo info */
 ._llq, ._36zg, ._1n-e._36zg {
 	color: white !important;
@@ -138,8 +139,8 @@ input::-webkit-input-placeholder {
 	color: white !important;
 }
 /* timestamp */
-._1ht7 {
-	color: rgba(255, 255, 255, .6) !important;  /* fuck you Chrome, fuck you. */
+._1ht7.timestamp {
+	color: rgba(255, 255, 255, .6);
 }
 ._1ht3 ._1ht7 {
 	color: #0084cc !important;
@@ -192,7 +193,7 @@ input::-webkit-input-placeholder {
 ._374c, ._4jgs, ._2c9i ._19jt, ._51l0 .uiInputLabel .__rm + .uiInputLabelLabel {
 	color: #ddd !important;
 }
-/* report dialog, even more so */
+/* report issue dialog, even more so */
 /* dialog head */
 ._4-i0 {
 	background-color: #333 !important;
@@ -205,6 +206,8 @@ input::-webkit-input-placeholder {
 /* dialog body, footer */
 div._4-i2, div._5a8u, ._4t2a {
 	background-color: #222 !important;
+	color: #eee;
+}
 /* what about normal facebook dialogs? */
 ._t {
 	background-color: #222 !important;
