@@ -11,7 +11,7 @@
 	background-color: rgba(255, 255, 255, .05) !important;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: white;
+	color: #eee;
 }
 a {
 	color: #0084cc;
@@ -39,6 +39,11 @@ input::-webkit-input-placeholder {
 ._4sp8 {
 	background-color: #1e1e1e;
 	color: white;
+}
+
+/* receipient/convo name in top bar */
+._17w2 {
+	color: white !important;
 }
 
 /* chat area stuff */
@@ -177,7 +182,7 @@ input::-webkit-input-placeholder {
 	filter: brightness(20%);
 }
 /* misc icons */
-._fl3:not(._20b), ._4-0h, ._57gs, label > input + span::before {
+._fl3:not(._20nb), ._4-0h, ._57gs, label > input + span::before {
 	-webkit-filter: brightness(75%);
 	filter: brightness(75%);
 }
