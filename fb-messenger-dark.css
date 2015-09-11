@@ -54,10 +54,10 @@ input::-webkit-input-placeholder {
 /* message */
 ._hh7 {
 	background-color: #2d2d30 !important;
-	color: #eee !important;
+	color: #ddd !important;
 }
 ._hh7 a {
-	color: #eee !important;
+	color: #ddd !important;
 }
 ._hh7:active, ._-5k ._hh7, ._hh7>span>a:hover {
 	background-color: #333 !important;
@@ -115,7 +115,7 @@ input::-webkit-input-placeholder {
 }
 /* convo name, user in user list */
 ._2jnv, ._364g {
-	color: #eee !important;
+	color: #ddd !important;
 }
 /* user list */
 ._5l37 {
