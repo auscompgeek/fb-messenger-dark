@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
 	color: #0084cc;
 }
-._5743, ._364g, ._hh7, ._4rph ._4rpj {
+._5743, ._hh7, ._4rph ._4rpj {
 	color: white !important;
 }
 label {
@@ -38,7 +38,7 @@ input::-webkit-input-placeholder {
 /* main wrapper */
 ._4sp8 {
 	background-color: #1e1e1e;
-	color: white;
+	color: #eee;
 }
 
 /* receipient/convo name in top bar */
@@ -49,15 +49,15 @@ input::-webkit-input-placeholder {
 /* chat area stuff */
 /* beginning of convo info */
 ._llq, ._36zg, ._1n-e._36zg {
-	color: white !important;
+	color: #eee !important;
 }
 /* message */
 ._hh7 {
 	background-color: #2d2d30 !important;
-	color: white !important;
+	color: #eee !important;
 }
 ._hh7 a {
-	color: white !important;
+	color: #eee !important;
 }
 ._hh7:active, ._-5k ._hh7, ._hh7>span>a:hover {
 	background-color: #333 !important;
@@ -74,7 +74,7 @@ input::-webkit-input-placeholder {
 	border-color: rgba(255, 255, 255, .1) !important;
 }
 .__6k, .__6l {
-	color: white !important;
+	color: #ddd !important;
 }
 /* audio message */
 ._29_7 ._3czg ._2e-7 ._2e-1, ._29_7 ._3czg ._2e-7 ._2e-2 {
@@ -113,9 +113,9 @@ input::-webkit-input-placeholder {
 	background-color: #2d2d30 !important;
 	border-left-color: rgba(0, 0, 0, 0.5);
 }
-/* convo name */
-._2jnv {
-	color: white !important;
+/* convo name, user in user list */
+._2jnv, ._364g {
+	color: #eee !important;
 }
 /* user list */
 ._5l37 {
@@ -141,7 +141,7 @@ input::-webkit-input-placeholder {
 }
 /* convo name */
 ._1ht6, ._3q34 {
-	color: white !important;
+	color: #ddd !important;
 }
 /* timestamp */
 ._1ht7.timestamp {
@@ -152,7 +152,7 @@ input::-webkit-input-placeholder {
 }
 /* convo new message */
 ._1ht3 ._1htf {
-	color: white !important;
+	color: #ddd !important;
 }
 /* search header */
 ._5t4c, ._225b {
