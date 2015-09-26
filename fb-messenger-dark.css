@@ -195,7 +195,8 @@ input::-webkit-input-placeholder {
 ._4-hz, ._4eby, ._4jgp ._4jgu {
 	background-color: #222 !important;
 }
-._374c, ._4jgs, ._2c9i ._19jt, ._51l0 .uiInputLabel .__rm + .uiInputLabelLabel {
+._374c, ._4jgs, ._2c9i ._19jt, ._51l0 .uiInputLabel .__rm + .uiInputLabelLabel,
+._5raa, ._5rab {
 	color: #ddd !important;
 }
 /* report issue dialog, even more so */
@@ -205,7 +206,7 @@ input::-webkit-input-placeholder {
 	border-bottom-color: #2e2e2e;
 }
 /* dialog heading, checkbox label */
-._4-i0 ._52c9, ._uvt {
+._4-i0 ._52c9, ._5r5c ._5rq_, ._uvt {
 	color: #ddd !important;
 }
 /* dialog body, footer */
