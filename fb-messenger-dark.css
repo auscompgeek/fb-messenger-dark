@@ -186,7 +186,8 @@ input::-webkit-input-placeholder {
 	-webkit-filter: brightness(75%);
 	filter: brightness(75%);
 }
-._5iwn ._58ak::before, /*._uwj*/ ._uwa, ._23ct, .sp_iPuvEF8GUpL.sx_28245e {
+._5iwn ._58ak::before, ._23ct, .sp_iPuvEF8GUpL.sx_28245e,
+:not(._3no3) > ._uwa {
 	-webkit-filter: invert(1);
 	filter: invert(1);
 }
