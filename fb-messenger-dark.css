@@ -56,9 +56,8 @@ input::-webkit-input-placeholder {
 /* message */
 ._hh7 {
 	background-color: #2d2d30 !important;
-	color: #ddd !important;
 }
-._hh7 a {
+._hh7, ._hh7 a {
 	color: #ddd !important;
 }
 ._hh7:active, ._-5k ._hh7, ._hh7>span>a:hover {
@@ -177,11 +176,14 @@ input::-webkit-input-placeholder {
 	color: #ddd !important;
 }
 ._2i-c ._54ne ._54nh, ._2i-c ._54ne ._54nc, ._2i-c ._54ne {
-	background-color: #0080aa !important;
+	background-color: #0066aa !important;
 }
 /* more stickers */
 ._5r8e, ._5r86, ._37wu, ._37wv {
 	border-color: #222;
+}
+._eb3::before {
+	background-color: #222;
 }
 ._5r8l .uiScrollableArea.contentAfter:after {
 	background-image: linear-gradient(transparent, #222);
