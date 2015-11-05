@@ -133,11 +133,12 @@ input::-webkit-input-placeholder {
 }
 /* unread convo */
 ._1ht1._1ht3 {
-	background-color: #2e2e36 !important;
+	background-color: #1c2e4a !important;
+	transition: background-color 0.5s ease 0s;
 }
 /* active convo */
 ._1ht1._1ht2 {
-	background-color: rgba(255, 255, 255, .05) !important;
+	background-color: #2d2d30 !important;
 }
 /* convo name */
 ._1ht6, ._3q34 {
