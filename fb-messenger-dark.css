@@ -4,7 +4,7 @@
 /* #141823 is Messenger's normal text colour, white is normal background colour */
 /* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
 	color: #eee;
 }
 a {
@@ -233,6 +233,23 @@ div._4-i2, div._5a8u, ._4t2a {
 }
 #captcha .captcha_refresh {
 	color: lightgrey !important;
+}
+
+/* login page */
+._3v_p {
+	background-color: #222 !important;
+}
+._3v_p ._5hy4 {
+	color: #eee !important;
+}
+._3v_p ._43di, ._3v_p ._3403 {
+	color: #ddd !important;
+}
+._3v_p ._210j ._43dj .uiInputLabelLabel, ._59h8 {
+	color: #aaa !important;
+}
+._3v_p ._3v_w ._2m_r {
+	background-color: #0066aa !important;
 }
 
 /* stuff that should be grey */
