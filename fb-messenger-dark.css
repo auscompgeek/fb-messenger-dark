@@ -146,7 +146,7 @@ input::-webkit-input-placeholder {
 /* unread convo */
 ._1ht1._1ht3 {
 	background-color: #1c2e4a !important;
-	transition: background-color 0.5s ease 0s;
+	transition: background-color .5s;
 }
 /* active convo */
 ._1ht1._1ht2 {
