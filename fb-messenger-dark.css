@@ -192,7 +192,8 @@ input::-webkit-input-placeholder {
 ._eb3::before {
 	background-color: #222;
 }
-._5r8l .uiScrollableArea.contentAfter:after {
+._3mts .uiScrollableArea.contentAfter::after,
+._5r8l .uiScrollableArea.contentAfter::after {
 	background-image: linear-gradient(transparent, #333);
 }
 /* menu dropdown triangles */
