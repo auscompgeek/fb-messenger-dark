@@ -171,6 +171,10 @@ input::-webkit-input-placeholder {
 ._5t4c, ._225b {
 	background-color: #1e1e1e !important;
 }
+/* people list self online status */
+._1u5d {
+	background-color: transparent !important;
+}
 
 /* those menus and stickers though */
 ._53ij, ._54nf, ._293j, ._55r1 {
@@ -270,7 +274,7 @@ div._4-i2, div._5a8u, ._4t2a {
 
 /* stuff that should be grey */
 ._ih3, ._3tl0, ._3tl1 ._10w4, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._5i_d .__6m, ._2y8z,
-._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4 {
+._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4, ._1u5d ._1u5k, ._3ggt {
 	color: rgba(255, 255, 255, .6) !important;
 }
 }
