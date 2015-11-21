@@ -279,9 +279,21 @@ div._4-i2, div._5a8u, ._4t2a {
 	background-color: #0066aa !important;
 }
 
+/* call page */
+._17cj, ._17cj ._3jne {
+	background-color: #1e1e1e !important;
+}
+._17cj ._3jnu, ._17cj ._3jnv {
+	color: rgba(255, 255, 255, .4) !important;
+}
+._17cj ._4j_k {
+	color: #eee !important;
+}
+
 /* stuff that should be grey */
 ._ih3, ._3tl0, ._3tl1 ._10w4, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._5i_d .__6m, ._2y8z,
-._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4, ._1u5d ._1u5k, ._3ggt {
+._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4, ._1u5d ._1u5k, ._3ggt,
+._17cj ._2ze8, ._17cj ._cen {
 	color: rgba(255, 255, 255, .6) !important;
 }
 }
