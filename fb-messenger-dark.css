@@ -156,6 +156,10 @@ input::-webkit-input-placeholder {
 ._1ht6, ._3q34 {
 	color: #eee !important;
 }
+/* message request from */
+._2kt ._5nxb {
+	color: #ddd !important;
+}
 /* timestamp */
 ._1ht7.timestamp {
 	color: #999;
@@ -218,7 +222,7 @@ input::-webkit-input-placeholder {
 	filter: brightness(80%);
 }
 ._5iwn ._58ak::before, ._23ct, .sp_iPuvEF8GUpL.sx_28245e,
-:not(._3no3) > ._uwa, ._5jdr ._5jds {
+:not(._3no3) > ._uwa, ._5jdr ._5jds, .sp_u-TQS_6Qiq4.sx_ea93f3 {
 	-webkit-filter: invert(1);
 	filter: invert(1);
 }
