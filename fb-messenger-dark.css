@@ -213,6 +213,10 @@ input::-webkit-input-placeholder {
 	-webkit-filter: brightness(20%);
 	filter: brightness(20%);
 }
+/* delivery indicators */
+._3i_m ._9ah ._57e_ {
+	color: #1e1e1e !important;
+}
 /* misc icons */
 ._fl3:not(._20nb), ._4-0h, ._57gs, label > input + span::before {
 	-webkit-filter: brightness(80%);
