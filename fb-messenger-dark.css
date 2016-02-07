@@ -68,8 +68,8 @@ input::-webkit-input-placeholder {
 	background-color: #003377;
 }
 /* own message: chat colours */
-._nd_ ._hh7[style*="color"] {
-	color: #1e1e1e !important;
+._nd_ ._hh7[style*="color"], ._nd_ ._hh7[style*="color"] a {
+	color: black !important;
 }
 /* emoji-only messages */
 ._hh7._2f5r, ._hh7._2f5r:active, ._-5k ._hh7._2f5r {
