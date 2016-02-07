@@ -54,8 +54,11 @@ input::-webkit-input-placeholder {
 ._hh7 {
 	background-color: #2d2d30;
 }
-._hh7, ._hh7 a, ._nd_ ._hh7, ._nd_ ._hh7 a {
+._hh7, ._hh7 a, ._nd_ ._hh7 {
 	color: #ddd;
+}
+._nd_ ._hh7 a {
+	color: inherit;
 }
 ._hh7:active, ._-5k ._hh7, ._hh7>span>a:hover {
 	background-color: #333;
@@ -68,11 +71,11 @@ input::-webkit-input-placeholder {
 	background-color: #005599;
 }
 /* own message: chat colours */
-._nd_ ._hh7[style*="color"], ._nd_ ._hh7[style*="color"] a {
+._nd_ ._hh7[style*="color"] {
 	color: black !important;
 }
-._nd_ ._hh7[style*="rgb(118, 70, 255)"] *,
-._nd_ ._hh7[style*="rgb(250, 60, 76)"] * {
+._nd_ ._hh7[style*="rgb(118, 70, 255)"],
+._nd_ ._hh7[style*="rgb(250, 60, 76)"] {
 	color: white !important;
 }
 /* emoji-only messages */
