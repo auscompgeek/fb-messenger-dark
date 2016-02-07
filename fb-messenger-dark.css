@@ -64,8 +64,8 @@ input::-webkit-input-placeholder {
 ._nd_ ._hh7 {
 	background-color: #004488;
 }
-._nd_ ._hh7:active, ._nd_._-5k ._hh7, ._nd_ ._hh7>span>a:hover {
-	background-color: #003377;
+._nd_ ._hh7:active, ._nd_._-5k ._hh7 {
+	background-color: #005599;
 }
 /* own message: chat colours */
 ._nd_ ._hh7[style*="color"], ._nd_ ._hh7[style*="color"] a {
