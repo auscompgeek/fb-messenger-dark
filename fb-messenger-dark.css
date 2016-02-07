@@ -71,6 +71,10 @@ input::-webkit-input-placeholder {
 ._nd_ ._hh7[style*="color"], ._nd_ ._hh7[style*="color"] a {
 	color: black !important;
 }
+._nd_ ._hh7[style*="rgb(118, 70, 255)"] *,
+._nd_ ._hh7[style*="rgb(250, 60, 76)"] * {
+	color: white !important;
+}
 /* emoji-only messages */
 ._hh7._2f5r, ._hh7._2f5r:active, ._-5k ._hh7._2f5r {
 	background-color: transparent;
