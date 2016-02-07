@@ -67,6 +67,10 @@ input::-webkit-input-placeholder {
 ._nd_ ._hh7:active, ._nd_._-5k ._hh7, ._nd_ ._hh7>span>a:hover {
 	background-color: #003377 !important;
 }
+/* emoji-only messages */
+._hh7._2f5r, ._-5k ._hh7._2f5r {
+	background-color: transparent !important;
+}
 /* link info */
 ._5i_d {
 	border-color: rgba(255, 255, 255, .1) !important;
