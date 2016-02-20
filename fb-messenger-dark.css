@@ -177,6 +177,10 @@ input::-webkit-input-placeholder {
 ._5t4c, ._225b {
 	background-color: #1e1e1e !important;
 }
+/* search keyboard selection */
+._1k1p {
+	background-color: #1e1e1e !important;
+}
 /* people list self online status */
 ._1u5d {
 	background-color: transparent !important;
