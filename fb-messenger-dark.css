@@ -64,7 +64,7 @@ input::-webkit-input-placeholder {
 ._nd_ ._hh7 {
 	background-color: #004488;
 }
-._nd_ ._hh7:active, ._nd_._-5k ._hh7, ._nd_ ._hh7>span>a:hover {
+._nd_ ._hh7:active, ._nd_._-5k ._hh7 {
 	background-color: #003377;
 }
 /* emoji-only messages */
