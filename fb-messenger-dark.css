@@ -33,7 +33,7 @@ input::-webkit-input-placeholder {
 }
 /* main wrapper */
 ._4sp8 {
-	background-color: #1e1e1e;
+	background-color: #1e1e1e !important;
 	color: #eee;
 }
 /* (not convo list) wrapper */
