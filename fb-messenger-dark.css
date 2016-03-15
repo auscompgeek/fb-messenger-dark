@@ -54,8 +54,11 @@ input::-webkit-input-placeholder {
 ._29_7 ._hh7, ._29_7._-5k ._hh7 {
 	background-color: #2d2d30;
 }
-._29_7 ._hh7, ._29_7 ._hh7 a {
+._29_7 ._hh7 {
 	color: #ddd;
+}
+._hh7 a {
+	color: inherit !important;
 }
 ._29_7 ._hh7:active, ._-5k ._hh7, ._29_7 ._hh7>span>a:hover {
 	background-color: #333;
@@ -102,7 +105,7 @@ input::-webkit-input-placeholder {
 ._hw2 ._53ij {
 	background-color: #040404 !important;
 }
-/* input bar */
+/* composer */
 ._4rv3 {
 	background-color: #1e1e1e !important;
 	border-top-color: rgba(255, 255, 255, .1) !important;
