@@ -74,12 +74,17 @@ input::-webkit-input-placeholder {
 ._hh7._2f5r, ._-5k ._hh7._2f5r {
 	background-color: transparent !important;
 }
-/* link info */
-._5i_d {
+/* link info, platform attachment */
+._5i_d, ._5ssp {
 	border-color: rgba(255, 255, 255, .1) !important;
 }
-.__6k, .__6l {
+.__6k, .__6l, ._5sr2 {
 	color: #ddd !important;
+}
+/* carousel arrow */
+._5x5z {
+	background-color: #1e1e1e !important;
+	border-color: #444 !important;
 }
 /* audio message */
 ._29_7 ._3czg ._2e-7 ._2e-1, ._29_7 ._3czg ._2e-7 ._2e-2 {
@@ -314,7 +319,7 @@ div._4-i2, div._5a8u, ._4t2a {
 /* stuff that should be grey */
 ._ih3, ._3tl0, ._3tl1 ._10w4, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._5i_d .__6m, ._2y8z,
 ._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4, ._1u5d ._1u5k, ._3ggt,
-._17cj ._2ze8, ._17cj ._cen {
+._17cj ._2ze8, ._17cj ._cen, ._5sr7 {
 	color: rgba(255, 255, 255, .6) !important;
 }
 }
