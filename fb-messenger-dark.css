@@ -131,6 +131,11 @@ input::-webkit-input-placeholder {
 ._4sp8 .uiBoxYellow {
 	background-color: #662;
 }
+/* code bubbles */
+._wu0 {
+	background-color: #181818 !important;
+	border-color: #282828 !important;
+}
 
 /* convo info, user list */
 ._4_j5, ._5l37 {
@@ -322,11 +327,4 @@ div._4-i2, div._5a8u, ._4t2a {
 ._17cj ._2ze8, ._17cj ._cen, ._5sr7 {
 	color: rgba(255, 255, 255, .6) !important;
 }
-
-/* Change embedded code with dark theme */
-._wu0 {
-    background: #111111;
-	border: 1px solid #252525;
-}
-
 }
