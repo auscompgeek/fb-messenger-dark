@@ -5,7 +5,7 @@ A polished dark Facebook Messenger theme.
   or manually copy and paste the CSS into Stylish.
 
 ## Preview
-![](https://df6a.https.cdn.softlayer.net/80DF6A/static.userstyles.org/style_screenshots/112397_after.png?r=1437696351)
+![](https://static.userstyles.org/style_screenshots/112397_after.png)
 
 ## FAQ
 * Where did all the commit messages go?
