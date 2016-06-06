@@ -267,6 +267,11 @@ input::-webkit-input-placeholder {
 ._5raa, ._5rab {
 	color: #ddd !important;
 }
+/* chat emoji picker: selected emoji */
+._-lj ._4rlt {
+	background-color: #333 !important;
+	border-color: #666 !important;
+}
 /* report issue dialog, even more so */
 /* dialog head */
 ._4-i0 {
