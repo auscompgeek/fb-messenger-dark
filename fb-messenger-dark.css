@@ -14,7 +14,7 @@ label {
 	color: #aaa;
 }
 /* convo search box, to field (new message, add people), other inputs? */
-._2y8y, ._2y8_, ._4jgt, input._58al {
+._2y8y, ._2y8_, ._4jgt, input._58al, ._55r1 {
 	background-color: #2d2d30 !important;
 	color: white !important;
 }
@@ -218,7 +218,7 @@ input::-webkit-input-placeholder {
 }
 
 /* those menus, stickers, and emoji though */
-._53ij, ._54nf, ._293j, ._55r1 {
+._53ij, ._54nf, ._293j {
 	background-color: #333 !important;
 }
 ._5r8a._5r8b, ._1uwz {
