@@ -78,12 +78,15 @@ input::-webkit-input-placeholder {
 ._hh7._2f5r, ._-5k ._hh7._2f5r {
 	background-color: transparent !important;
 }
-/* link info, platform attachment */
+/* link info, platform attachment, game leaderboard */
 ._5i_d, ._5ssp {
 	border-color: rgba(255, 255, 255, .1) !important;
 }
 .__6k, .__6l, ._5sr2 {
 	color: #ddd !important;
+}
+._4u4_ > h3, ._4u4- {
+	color: #eee !important;
 }
 /* carousel arrow */
 ._5x5z {
