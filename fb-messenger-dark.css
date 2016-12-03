@@ -238,6 +238,12 @@ input::-webkit-input-placeholder {
 ._5r8l .uiScrollableArea.contentAfter::after {
 	background-image: linear-gradient(transparent, #333);
 }
+/* sticker and games buttons */
+._4rv6, ._4ce_ {
+	-webkit-filter: invert(1);
+	filter: invert(1);
+	opacity: .6 !important;
+}
 /* menu dropdown triangles */
 ._53ik ._53io, ._53il ._53io {
 	-webkit-filter: brightness(20%);
