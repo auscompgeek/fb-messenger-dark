@@ -10,7 +10,7 @@ h2, h3, h4, h5, h6 {
 ._5743, ._4rph ._4rpj {
 	color: white !important;
 }
-label {
+label, ._1wse {
 	color: #aaa;
 }
 /* convo search box, to field (new message, add people), other inputs? */
@@ -269,11 +269,11 @@ input::-webkit-input-placeholder {
 }
 
 /* messenger dialogs, very important */
-._4-hz, ._4eby, ._4jgp ._4jgu {
+._4-hz, ._4eby, ._4jgp ._4jgu, ._12zw {
 	background-color: #222 !important;
 }
 ._374c, ._4jgs, ._2c9i ._19jt, ._51l0 .uiInputLabel .__rm + .uiInputLabelLabel,
-._5raa, ._5rab {
+._5raa, ._5rab, ._4nv_ {
 	color: #ddd !important;
 }
 /* chat emoji picker: selected emoji */
@@ -346,7 +346,7 @@ div._4-i2, div._5a8u, ._4t2a {
 /* stuff that should be grey */
 ._ih3, ._3tl0, ._3tl1 ._10w4, ._497p, ._3x6v, ._2v6o, ._3tky, ._5rh4, ._jf4 ._jf3, ._5i_d .__6m, ._2y8z,
 ._4g0h, ._3xcx, ._225b, ._3q35, ._2r2v, ._2n1t, ._1n-e, ._3eus, ._2wy4, ._1u5d ._1u5k, ._3ggt,
-._17cj ._2ze8, ._17cj ._cen, ._5sr7 {
+._17cj ._2ze8, ._17cj ._cen, ._5sr7, ._4nw0 {
 	color: rgba(255, 255, 255, .6) !important;
 }
 }
