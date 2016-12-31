@@ -217,15 +217,18 @@ input::-webkit-input-placeholder {
 	background-color: #0066aa !important;
 }
 
-/* those menus, stickers, and emoji though */
-._53ij, ._54nf, ._293j {
+/* those menus, stickers, emoji, and games though */
+._53ij, ._54nf, ._293j, ._4lh2 {
 	background-color: #333 !important;
 }
-._5r8a._5r8b, ._1uwz {
+._5r8a._5r8b, ._1uwz, ._3rh0 {
 	background-color: #222 !important;
 }
-._2i-c ._54nf ._54nh {
+._2i-c ._54nf ._54nh, ._4lh2 {
 	color: #ddd !important;
+}
+._4lha ._4lhc, ._4lh7 {
+	color: #aaa !important;
 }
 ._2i-c ._54ne ._54nh, ._2i-c ._54ne ._54nc, ._2i-c ._54ne {
 	background-color: #0066aa !important;
