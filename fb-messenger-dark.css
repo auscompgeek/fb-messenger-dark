@@ -64,6 +64,9 @@ input::-webkit-input-placeholder {
 ._hh7 a {
 	color: inherit !important;
 }
+._hh7._aol {
+	border-color: transparent;
+}
 ._29_7 ._hh7:active, ._-5k ._hh7, ._29_7 ._hh7>span>a:hover {
 	background-color: #333;
 }
