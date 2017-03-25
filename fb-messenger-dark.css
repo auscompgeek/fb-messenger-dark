@@ -91,6 +91,17 @@ input::-webkit-input-placeholder {
 ._4u4_ > h3, ._4u4- {
 	color: #eee !important;
 }
+/* group polling */
+._3b4u {
+	color: #ddd !important;
+}
+._3b4h {
+	background-color: #2d2d30 !important;
+}
+/* polling message dialog */
+._1mr_, ._1mq- {
+	color: #ddd !important;
+}
 /* carousel arrow */
 ._5x5z {
 	background-color: #1e1e1e !important;
@@ -220,14 +231,14 @@ input::-webkit-input-placeholder {
 	background-color: #0066aa !important;
 }
 
-/* those menus, stickers, emoji, and games though */
+/* those menus and composer dialogs though */
 ._53ij, ._54nf, ._293j, ._4lh2 {
 	background-color: #333 !important;
 }
 ._5r8a._5r8b, ._1uwz, ._3rh0 {
 	background-color: #222 !important;
 }
-._2i-c ._54nf ._54nh, ._4lh2 {
+._2i-c ._54nf ._54nh, ._4lh2, ._5jn1 {
 	color: #ddd !important;
 }
 ._4lha ._4lhc, ._4lh7 {
