@@ -61,7 +61,7 @@ input::-webkit-input-placeholder {
 ._29_7 ._hh7 {
 	color: #ddd;
 }
-._hh7 a {
+._hh7 a:not(._ih-) {
 	color: inherit !important;
 }
 ._hh7._aol {
