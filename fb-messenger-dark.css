@@ -308,6 +308,10 @@ input::-webkit-input-placeholder {
 	background-color: #333 !important;
 	border-color: #666 !important;
 }
+/* reactions list dialog: emoji list */
+._koh {
+	border-bottom-color: #333 !important;
+}
 /* report issue dialog, even more so */
 /* dialog head */
 ._4-i0 {
