@@ -18,6 +18,9 @@ label, ._1wse {
 	background-color: #2d2d30 !important;
 	color: white !important;
 }
+input._58al {
+	color: white !important;
+}
 /* I hate placeholder styling */
 input::-moz-placeholder {
 	color: #ccc !important;
