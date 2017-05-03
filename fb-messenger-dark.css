@@ -168,6 +168,32 @@ input::-webkit-input-placeholder {
 	border-color: #282828 !important;
 }
 
+/* Messenger icon */
+._2poo {
+	border-radius: 50%;
+	box-shadow: inset 0 0 0 3px #0084ff;
+}
+/* Facebook icon */
+._2pop {
+	border-radius: 50%;
+	box-shadow: inset 0 0 0 3px #929292;
+}
+/* Messenger/Facebook icon - Draw dark grey border over white border */
+._2pon:after {
+	content: "";
+	position: absolute;
+	top: -1px;
+	left: -1px;
+	right: -1px;
+	bottom: -1px;
+	border-radius: 50%;
+	border: 2px solid #282828;
+}
+/* Messenger/Facebook icons within the main wrapper */
+._4sp8 ._2pon:after {
+	border-color: #1e1e1e;
+}
+
 /* convo info, user list */
 ._4_j5, ._5l37 {
 	background-color: #282828 !important;
