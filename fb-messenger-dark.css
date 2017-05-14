@@ -146,6 +146,10 @@ input::-webkit-input-placeholder {
 	background-color: #1e1e1e !important;
 	border-top-color: rgba(255, 255, 255, .1) !important;
 }
+/* prevent useless scrollbar from showing in composer */
+._2swd._kmc {
+	padding-bottom: 9px !important;
+}
 /* make static stickers slightly more readable */
 /*
 ._2poz[style*="sticker"] {
