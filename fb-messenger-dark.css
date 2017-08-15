@@ -325,6 +325,10 @@ input::-webkit-input-placeholder {
 }
 
 /* messenger dialogs, very important */
+._59s7 {
+	background-color: #222;
+	color: #eee;
+}
 ._4-hz, ._4eby, ._4jgp ._4jgu, ._12zw {
 	background-color: #222 !important;
 }
@@ -352,9 +356,12 @@ input::-webkit-input-placeholder {
 	color: #ddd !important;
 }
 /* dialog body, footer */
-div._4-i2, div._5a8u, ._4t2a {
+div._4-i2, div._5a8u {
 	background-color: #222 !important;
 	color: #eee;
+}
+._4t2a {
+	background-color: #222;
 }
 ._4-u8 {
 	background-color: transparent !important;
