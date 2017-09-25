@@ -66,7 +66,7 @@ input::-webkit-input-placeholder {
 	background-color: #222 !important;
 	color: #ccc !important;
 }
-._2615 {
+._2615:not(:hover) {
 	background-color: #333 !important;
 }
 
