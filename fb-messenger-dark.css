@@ -51,6 +51,24 @@ input::-webkit-input-placeholder {
 ._33p7 {
 	background-color: rgba(30, 30, 30, 0.9)	!important;
 }
+/* event plan banner */
+._3nta {
+	background-color: #2d2d30 !important;
+}
+._3nta:hover {
+	background-color: #222 !important;
+}
+._2n3u {
+	color: rgba(255, 255, 255, .6) !important;
+}
+/* XUIButton */
+._517h {
+	background-color: #222 !important;
+	color: #ccc !important;
+}
+._2615 {
+	background-color: #333 !important;
+}
 
 /* chat area stuff */
 /* beginning of convo info */
@@ -111,6 +129,18 @@ input::-webkit-input-placeholder {
 /* polling message dialog */
 ._1mr_, ._1mq- {
 	color: #ddd !important;
+}
+/* create event plan button */
+._3erg ._hh7 a._2q1l {
+	background-color: #2d2d30 !important;
+	/*border-color: !important;*/
+}
+/* event share attachment */
+._618l {
+	color: rgba(255, 255, 255, .75) !important;
+}
+._618n {
+	color: rgba(255, 255, 255, .6) !important;
 }
 /* carousel arrow */
 ._5x5z {
@@ -365,6 +395,10 @@ div._4-i2, div._5a8u {
 }
 ._4-u8 {
 	background-color: transparent !important;
+}
+/* event plan dialog: input labels, responses */
+._4xd5, ._38wl, ._4x79 {
+	color: rgba(255, 255, 255, .6) !important;
 }
 /* image info */
 ._2zn2 {
