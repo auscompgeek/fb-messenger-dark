@@ -51,6 +51,12 @@ input::-webkit-input-placeholder {
 ._33p7 {
 	background-color: rgba(30, 30, 30, 0.9)	!important;
 }
+/* highlighted search results */
+.__in {
+	background-color: rgba(0, 0, 0, 0.3);
+	box-shadow: 2px 0 rgba(0, 0, 0, 0.3), -2px 0 rgba(0, 0, 0, 0.3);
+	padding: 1px 0 2px 0;
+}
 /* event plan banner */
 ._3nta {
 	background-color: #2d2d30 !important;
