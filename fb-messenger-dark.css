@@ -343,11 +343,12 @@ input::-webkit-input-placeholder {
 	color: #1e1e1e !important;
 }
 /* misc icons */
+._5iwm ._58ak::before,
 ._fl3:not(._20nb), ._4-0h, ._57gs, label > input + span::before {
 	-webkit-filter: brightness(80%);
 	filter: brightness(80%);
 }
-._5iwm ._58ak::before, ._23ct, ._2xme,
+._23ct, ._2xme,
 :not(._3no3) > ._uwa, ._5jdr ._5jds,
 ._5nxe .img, ._2t5t {
 	-webkit-filter: invert(1);
