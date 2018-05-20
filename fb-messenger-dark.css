@@ -396,6 +396,13 @@ input::-webkit-input-placeholder {
 ._koh {
 	border-bottom-color: #333 !important;
 }
+._koh > li:not(.selected) {
+	color: #aaa;
+}
+/* reactions list dialog: emoji picture overlay */
+._3s-4 {
+	background-color: #222 !important;
+}
 /* report issue dialog, even more so */
 /* dialog head */
 ._4-i0 {
