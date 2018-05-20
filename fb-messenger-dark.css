@@ -140,6 +140,10 @@ input::-webkit-input-placeholder {
 ._1mr_, ._1mq- {
 	color: #ddd !important;
 }
+/* poll checkbox */
+._2m5p {
+	border-color: rgba(255, 255, 255, .1) !important;
+}
 /* create event plan button */
 ._3erg ._hh7 a._2q1l {
 	background-color: #2d2d30 !important;
