@@ -214,6 +214,10 @@ input::-webkit-input-placeholder {
 	background-color: #181818 !important;
 	border-color: #282828 !important;
 }
+/* new messages notice */
+._4zws {
+	background-color: #444 !important;
+}
 
 /* Messenger icon */
 ._2poo {
