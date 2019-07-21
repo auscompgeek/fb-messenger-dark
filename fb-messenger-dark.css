@@ -222,6 +222,10 @@ input::-webkit-input-placeholder {
 ._4zws {
 	background-color: #444 !important;
 }
+/* typing indicator */
+._4gd0 {
+    background-color: transparent !important;
+}
 
 /* convo info, user list */
 ._4_j5, ._5l37 {
