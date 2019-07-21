@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name Facebook Messenger - the dark side
+@namespace vovo.id.au
+@version 2019.7.22
+@license CC-BY-SA-4.0
+==/UserStyle== */
+
 @-moz-document domain("www.messenger.com") {
 /* #141823 is Messenger's normal text colour, white is normal background colour */
 /* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
