@@ -360,6 +360,7 @@ input::-webkit-input-placeholder {
 #Settings > path, #compose > path,
 #Search > path, #bell > path, #reply > path,
 #message-dots > path,
+#minus-circle > path,
 #dots-3-horizontal > g > path,
 #pencil-underline > g > path,
 #message-cross > g > path,
