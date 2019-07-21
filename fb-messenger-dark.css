@@ -118,6 +118,10 @@ input::-webkit-input-placeholder {
 ._4kf5 {
 	background-color: transparent !important;
 }
+/* reply decorator */
+._4k7a {
+	color: #aaa !important;
+}
 /* link info, platform attachment, game leaderboard */
 ._5i_d, ._5ssp, ._4ea2 {
 	border-color: rgba(255, 255, 255, .1) !important;
@@ -194,6 +198,10 @@ input::-webkit-input-placeholder {
 	background-color: #1e1e1e;
 }
 ._kmc._7kpg ._1p1t {
+	color: #aaa !important;
+}
+/* composer reply */
+._67tw {
 	color: #aaa !important;
 }
 /* make static stickers slightly more readable */
