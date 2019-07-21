@@ -4,7 +4,8 @@
 /* #141823 is Messenger's normal text colour, white is normal background colour */
 /* #1E1E1E and #2D2D30 are Visual Studio, don't ask */
 
-h2, h3, h4, h5, h6 {
+._6-xo,
+h1, h2, h3, h4, h5, h6 {
 	color: #eee;
 }
 ._5743, ._4rph ._4rpj {
@@ -235,8 +236,12 @@ input::-webkit-input-placeholder {
 	border-left: none !important;
 }
 /* convo name, mute label, user in user list, section headings */
+._3eur._6ybk a,
 ._2jnv,._2jnx,._2jnz,._2jnx ._30e7 ._5j5f, ._3szq, ._364g, ._1lj0 {
 	color: #ddd !important;
+}
+._87b_, ._7ht_ {
+	color: #aaa !important;
 }
 
 /* convo list */
