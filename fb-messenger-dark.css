@@ -186,12 +186,16 @@ input::-webkit-input-placeholder {
 	background-color: #040404 !important;
 }
 /* composer */
+._5irm._7mkm,
 ._4rv3, ._4_j4 .chatAttachmentShelf {
 	background-color: #1e1e1e !important;
 	border-top-color: rgba(255, 255, 255, .1) !important;
 }
 .fbNubFlyoutHeader, .fbNubFlyoutBody, .fbNubFlyoutFooter, .fbNubFlyoutAttachments {
 	background-color: #1e1e1e;
+}
+._kmc._7kpg ._1p1t {
+	color: #aaa !important;
 }
 /* make static stickers slightly more readable */
 /*
