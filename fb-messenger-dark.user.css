@@ -129,6 +129,11 @@ input::-webkit-input-placeholder {
 ._4k7a {
 	color: #aaa !important;
 }
+/* thumb reaction */
+._2poz._ui9._576q svg > rect {
+    /* colour hack due to background transparency */
+    fill: #262626 !important;
+}
 /* link info, platform attachment, game leaderboard */
 ._5i_d, ._5ssp, ._4ea2 {
 	border-color: rgba(255, 255, 255, .1) !important;
