@@ -131,8 +131,8 @@ input::-webkit-input-placeholder {
 }
 /* thumb reaction */
 ._2poz._ui9._576q svg > rect {
-    /* colour hack due to background transparency */
-    fill: #262626 !important;
+	/* colour hack due to background transparency */
+	fill: #262626 !important;
 }
 /* link info, platform attachment, game leaderboard */
 ._5i_d, ._5ssp, ._4ea2 {
