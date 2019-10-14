@@ -34,6 +34,11 @@ input::-moz-placeholder {
 input::-webkit-input-placeholder {
 	color: #888 !important;
 }
+/* chat textbox input placeholder font colour */
+._kmc._7kpg ._1p1t {
+	-webkit-text-fill-color: #888 !important;
+	color: #888 !important;
+}
 
 /* top bars */
 ._36ic, ._673w {
