@@ -356,6 +356,9 @@ input::-webkit-input-placeholder {
 	filter: invert(1);
 	opacity: .6 !important;
 }
+._7t1o {
+	background-color: rgba(0, 0, 0, .05) !important;
+}
 /* menu dropdown triangles */
 ._53ik ._53io, ._53il ._53io {
 	-webkit-filter: brightness(20%);
