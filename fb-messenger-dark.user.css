@@ -223,6 +223,9 @@ input::-webkit-input-placeholder {
 	-webkit-filter: brightness(75%);
 	filter: brightness(75%);
 }
+._576q > svg > rect {
+	fill: #282828;
+}
 /* facebook-removed messages et al */
 ._4sp8 .uiBoxYellow {
 	background-color: #662;
