@@ -114,6 +114,12 @@ input::-webkit-input-placeholder {
 ._o46._nd_ ._hh7:active, ._o46._nd_._-5k ._hh7 {
 	background-color: #264888;
 }
+/* removed message */
+._7301._hh7, ._7301._hh7._hh7._6ybn {
+    background-color: rgba(255, 255, 255, .1) !important;
+    border-color:rgba(255, 255, 255, .1) !important;
+    color: rgba(255, 255, 255, .4) !important;
+}
 /* emoji-only messages */
 ._hh7._2f5r, ._-5k ._hh7._2f5r {
 	background-color: transparent !important;
