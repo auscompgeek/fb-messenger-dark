@@ -194,6 +194,10 @@ input::-webkit-input-placeholder {
 ._2f5n ._29ey {
 	color: #ccc !important;
 }
+/* quoted links */
+._hh7 a {
+    color: #ddd !important;
+}
 /* delete bubble button */
 ._hw2 ._53ij {
 	background-color: #040404 !important;
