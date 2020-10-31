@@ -35,8 +35,8 @@ input::-webkit-input-placeholder {
 	color: #888 !important;
 }
 ._kmc._7kpg ._1p1t {
-	color: #888;
-	-webkit-text-fill-color: #888;
+	color: #888 !important;
+	-webkit-text-fill-color: #888 !important;
 }
 
 /* top bars */
