@@ -34,6 +34,10 @@ input::-moz-placeholder {
 input::-webkit-input-placeholder {
 	color: #888 !important;
 }
+._kmc._7kpg ._1p1t {
+	color: #888;
+	-webkit-text-fill-color: #888;
+}
 
 /* top bars */
 ._36ic, ._673w {
