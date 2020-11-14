@@ -207,8 +207,10 @@ input::-webkit-input-placeholder {
 .fbNubFlyoutHeader, .fbNubFlyoutBody, .fbNubFlyoutFooter, .fbNubFlyoutAttachments {
 	background-color: #1e1e1e;
 }
+/* composer placeholder */
 ._kmc._7kpg ._1p1t {
 	color: #aaa !important;
+	-webkit-text-fill-color: unset !important;
 }
 /* composer reply */
 ._67tw {
