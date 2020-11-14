@@ -388,6 +388,7 @@ input::-webkit-input-placeholder {
 	-webkit-filter: invert(1);
 	filter: invert(1);
 }
+._94py svg path,
 ._1z_2 svg path,
 #Settings > path, #compose > path,
 #Search > path, #bell > path, #reply > path,
