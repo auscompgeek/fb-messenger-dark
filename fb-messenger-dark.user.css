@@ -169,6 +169,10 @@ input::-webkit-input-placeholder {
 ._618n {
 	color: rgba(255, 255, 255, .6) !important;
 }
+/* share border-colors */
+.__6j._43kk {
+    border-color: #2D2D30 !important;
+}
 /* carousel arrow */
 ._5x5z {
 	background-color: #1e1e1e !important;
